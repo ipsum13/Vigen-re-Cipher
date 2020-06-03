@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Vigenere-Cipher/static/js/main.c5567534.chunk.js",
+    "main.js.map": "/Vigenere-Cipher/static/js/main.c5567534.chunk.js.map",
+    "runtime-main.js": "/Vigenere-Cipher/static/js/runtime-main.81d6978d.js",
+    "runtime-main.js.map": "/Vigenere-Cipher/static/js/runtime-main.81d6978d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Vigenere-Cipher/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5d68e47b.chunk.js": "/Vigenere-Cipher/static/js/2.5d68e47b.chunk.js",
+    "static/js/2.5d68e47b.chunk.js.map": "/Vigenere-Cipher/static/js/2.5d68e47b.chunk.js.map",
+    "index.html": "/Vigenere-Cipher/index.html",
+    "precache-manifest.298bca74aca9a1bd1d57ee1fadd79e81.js": "/Vigenere-Cipher/precache-manifest.298bca74aca9a1bd1d57ee1fadd79e81.js",
+    "service-worker.js": "/Vigenere-Cipher/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Vigenere-Cipher/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.5d68e47b.chunk.js.LICENSE.txt": "/Vigenere-Cipher/static/js/2.5d68e47b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81d6978d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5d68e47b.chunk.js",
+    "static/js/main.c5567534.chunk.js"
+  ]
+}
